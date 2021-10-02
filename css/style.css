@@ -7,4 +7,16 @@ body {
   overflow: hidden;
 }
 
+.modal-body {
+  position: relative;
+  overflow-y: auto;
+  max-height: 400px;
+  padding: 15px;
+}
+
+.carousel-control-next, .carousel-control-prev {
+  position: relative;
+  max-height: 200px;
+}
+
 /*# sourceMappingURL=style.css.map */
