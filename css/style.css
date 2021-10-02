@@ -2,4 +2,9 @@ body {
   overflow-x: hidden;
 }
 
+.mask {
+  height: 500px;
+  overflow: hidden;
+}
+
 /*# sourceMappingURL=style.css.map */
