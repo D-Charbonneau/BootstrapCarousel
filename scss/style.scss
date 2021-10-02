@@ -16,8 +16,12 @@ body
     padding: 15px;
 }
 
-.carousel-control-next, .carousel-control-prev
-{
-    position: relative;
-    max-height: 200px;
-}
+
+
+@media only screen and (max-width: 1000px) {
+    .carousel-control-next, .carousel-control-prev
+    {
+        position: relative;
+        max-height: 200px;
+    }
+  }
